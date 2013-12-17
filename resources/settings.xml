@@ -1,0 +1,7 @@
+<settings>
+    <category label="Resolver_Accounts">
+        <setting id="VK_enabled" type="bool" label="VK.com Account Enabled" default="False"/>
+        <setting id="VK_user" type="text" label="    VK.com Username" enable="eq(-1,true)" default=""/>
+        <setting id="VK_pass" type="text" label="    VK.com Password" enable="eq(-2,true)" default="" option="hidden"/>
+    </category>
+</settings>
