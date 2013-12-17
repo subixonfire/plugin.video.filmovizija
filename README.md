@@ -12,3 +12,6 @@ Install:
 
 - use download as zip option on this webpage or clone using git
 - manualy install to xbmc using install zip option http://wiki.xbmc.org/index.php?title=Add-on_manager#How_to_install_from_a_ZIP_file
+
+
+PS: one of video hosts used by filmovizija is vk.com, you will need to register for a free account there and add your login details in plugin settings.
